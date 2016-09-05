@@ -1,0 +1,1 @@
+python3 /usr/share/java-utils/pom_editor.py pom_remove_plugin org.codehaus.mojo:findbugs-maven-plugin
